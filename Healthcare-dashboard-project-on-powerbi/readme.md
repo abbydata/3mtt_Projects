@@ -1,7 +1,7 @@
 # Healthcare Dashboard Project on Power BI
 
 ## Project Overview
-This project involved designing and developing an interactive Power BI dashboard to analyze hospital patient data and support decision-making for healthcare managers. The dashboard highlights key trends in patient demographics, treatment adherence, department performance, and resource utilization, with a focus on length of stay (LOS) and patient satisfaction.
+This project involved designing and developing an interactive Power BI dashboard to analyse hospital patient data and support decision-making for healthcare managers. The dashboard highlights key trends in patient demographics, treatment adherence, department performance, and resource utilisation, with a focus on length of stay (LOS) and patient satisfaction.
 
 ![Healthcare interactive dashboard overview](Healthcare_interactive_dashboard_overview.png)
 
@@ -18,7 +18,7 @@ The primary objective of this project was to answer the following questions:
 ## Methodology
 1. Imported and cleaned the healthcare dataset in Power BI.
 2. Created calculated columns to classify comorbidities as None, Single, Double, or Multiple.
-3. Built age-group categories such Young Adult, Adult, and Senior.
+3. Built age-group categories such as Young Adult, Adult, and Senior.
 4. Designed KPI cards, slicers, bar charts, and pie charts to surface important trends.
 5. Added a Clear Filters button and an Insights page to improve usability and communicate findings effectively.
 
@@ -26,7 +26,7 @@ The primary objective of this project was to answer the following questions:
 - Power BI dashboard design
 - Data modeling and transformation
 - DAX calculations
-- Data visualization best practices
+- Data visualisation best practices
 - Interactive report development with slicers and bookmarks
 - Insight storytelling and business reporting
 
@@ -41,7 +41,7 @@ The primary objective of this project was to answer the following questions:
 - Departments treating injuries served the highest number of patients, while departments with strong follow-up engagement tended to show better satisfaction and adherence results.
 
 ## Business Recommendation
-Healthcare managers should prioritize interventions for patients with multiple comorbidities, especially those with extended LOS, by improving discharge planning, medication adherence support, and care coordination. Departments that already show strong follow-up engagement should be used as models for improving patient satisfaction and treatment outcomes.
+Healthcare managers should prioritise interventions for patients with multiple comorbidities, especially those with extended LOS, by improving discharge planning, medication adherence support, and care coordination. Departments that already show strong follow-up engagement should be used as models for improving patient satisfaction and treatment outcomes.
 
 ## Next Steps
 - Expand the dashboard with additional clinical and financial KPIs.
@@ -53,7 +53,7 @@ Healthcare managers should prioritize interventions for patients with multiple c
 - Microsoft Power BI
 - DAX
 - Power Query
-- Data visualization and dashboard design principles
+- Data visualisation and dashboard design principles
 
 ## Project Files
 - [Healthcare_interactive_dashboard.pbix](Healthcare_interactive_dashboard.pbix)
