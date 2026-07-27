@@ -9,7 +9,7 @@ This project focuses on building an interactive Human Resources analytics dashbo
 The dashboard reveals that employee attrition is a meaningful business concern, with an overall attrition rate of approximately 16%. The highest attrition is observed among younger employees under 30, single employees, and employees in the Sales department, particularly Sales Representatives. Employees living farther from work also show elevated turnover, while lower work-life balance scores are associated with higher attrition. The analysis also suggests that compensation is not strongly aligned with performance, indicating an opportunity to review salary structures and career progression practices.
 
 ### Business Problem
-HR teams often lack a consolidated view of workforce health, making it difficult to identify which employee groups are most at risk of leaving and where retention actions should be prioritized.
+HR teams often lack a consolidated view of workforce health, making it difficult to identify which employee groups are most at risk of leaving and where retention actions should be prioritised.
 
 ### Key Questions
 - Which employee segments experience the highest attrition?
@@ -28,17 +28,17 @@ HR teams often lack a consolidated view of workforce health, making it difficult
 
 ## Skills Demonstrated
 - Data cleaning and transformation using Power Query
-- Data modeling and DAX measure creation
+- Data modelling and DAX measure creation
 - Power BI dashboard design and storytelling
 - Business intelligence and KPI development
 - Data analysis for HR and workforce planning
-- Portfolio-ready reporting and visualization presentation
+- Portfolio-ready reporting and visualisation presentation
 
 ## Results and Insights
 - The majority of employees fall within the 30–40 age group.
 - The workforce is approximately 60% male and 40% female.
 - Research and Development has the largest staff population.
-- Overall attrition rate is approximately 16%.
+- The overall attrition rate is approximately 16%.
 - Younger employees, single employees, and employees in Sales roles show the highest attrition.
 - Employees living more than 15 km from work have the highest turnover risk.
 - Lower work-life balance scores are linked to higher attrition.
@@ -46,7 +46,7 @@ HR teams often lack a consolidated view of workforce health, making it difficult
 - Most employees fall within the medium income band, and salary does not appear to strongly correlate with performance rating.
 
 ## Business Recommendations
-- Prioritize retention initiatives for younger employees, single employees, and employees in Sales-related roles.
+- Prioritise retention initiatives for younger employees, single employees, and employees in Sales-related roles.
 - Review commute-related concerns and improve support for employees living farther from work.
 - Strengthen work-life balance policies and employee wellness initiatives to reduce turnover risk.
 - Improve career progression and promotion planning to increase employee engagement and retention.
