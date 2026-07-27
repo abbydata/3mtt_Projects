@@ -1,7 +1,7 @@
 # 911 Calls Analysis Project
 
 ## Project Overview
-This project analyzes a real-world 911 emergency calls dataset using Python in Jupyter Notebook. The aim was to uncover patterns in emergency call activity by examining time, location, and reason for calls, with the goal of supporting better decision-making for public safety and emergency response planning.
+This project analyses a real-world 911 emergency calls dataset using Python in Jupyter Notebook. The aim was to uncover patterns in emergency call activity by examining the time, location, and reasons for calls to support better decision-making for public safety and emergency response planning.
 
 ## Executive Summary
 This analysis explored 663,522 emergency calls to identify the most common reasons for calls, peak days and hours of activity, monthly trends, and the townships and zip codes with the highest call volume. The findings show that EMS calls dominate the dataset, that call activity peaks in the afternoon and evening, and that certain locations consistently report more emergency incidents than others.
@@ -22,7 +22,7 @@ The analysis followed a structured data exploration workflow:
 3. Created new features such as Reason, Hour, Month, and Day of Week.
 4. Used a dictionary mapping to convert numeric weekday values into readable day names.
 5. Grouped and counted calls by reason, day, month, township, and zip code.
-6. Visualized the results using count plots, line plots, heatmaps, and clustermaps.
+6. Visualised the results using count plots, line plots, heatmaps, and clustermaps.
 
 ## Results and Insights
 ### 1. Major Reasons for 911 Calls
@@ -34,6 +34,7 @@ EMS (Emergency Medical Services) was the most common reason for 911 calls, follo
 The highest volume of calls occurred on Fridays, followed by Mondays and Tuesdays. Most calls were concentrated during the afternoon and evening hours, especially between around 3 PM and 6 PM.
 
 ![911 Calls by Day of Week and Reason](911_calls_by_days_and_reasons_chart.png)
+![911 Calls by Day of Week and Hour](911_calls_by_dayofweek_and_hour_chart.png)
 
 ### 3. Monthly Patterns
 There were noticeable differences in call volume across months, suggesting seasonal or time-based variation. Some months had lower call activity, which was further examined using line plots and other visual tools.
@@ -56,9 +57,7 @@ The most frequently appearing zip codes included:
 - 19406
 
 ### 5. Visualization Insights
-Heatmaps and clustermaps were used to explore relationships between day of week and hour, day of week and month, and week and hour. These visualizations highlighted consistent call patterns during certain periods of the week and day.
-
-![911 Calls by Day of Week and Hour](911_calls_by_dayofweek_and_hour_chart.png)
+Heatmaps and clustermaps were used to explore relationships between day of week and hour, day of week and month, and week and hour. These visualisations highlighted consistent call patterns during certain periods of the week and day.
 
 ## Business Recommendations
 Based on the findings, emergency response teams could improve planning by:
@@ -79,12 +78,12 @@ This project demonstrates skills in:
 - Data cleaning and preprocessing
 - Exploratory data analysis (EDA)
 - Feature engineering
-- Data visualization
+- Data visualisation
 - Pattern discovery and insight generation
 - Communication of analytical findings
 
 ## Summary of Findings
-This project helped to better understand when, why, and how often people call 911. By using Python and visualization libraries such as Seaborn and Matplotlib, important patterns in emergency call behavior were identified.
+This project helped to understand better when, why, and how often people call 911. By using Python and visualisation libraries such as Seaborn and Matplotlib, important patterns in emergency call behaviour were identified.
 
 The insights from this analysis could be valuable for emergency services in improving response planning, resource allocation, and operational efficiency.
 
@@ -99,6 +98,5 @@ Potential next steps for this project include:
 Overall, this analysis demonstrates how data analytics can be used to uncover meaningful trends in public safety data. The project shows how time-based and location-based patterns can provide useful information for decision-making in emergency response systems.
 
 ## Project Files
-- Dataset: [911_calls_dataset.csv](911_calls_dataset.csv)
 - Notebook: [911_calls_analysis_project.ipynb](911_calls_analysis_project.ipynb)
 - PDF report: [911_calls_analysis_exploratio_with_python.pdf](911_calls_analysis_exploratio_with_python.pdf)
