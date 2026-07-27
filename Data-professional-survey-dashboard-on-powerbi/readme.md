@@ -67,8 +67,6 @@ The dashboard shows that 59% of respondents are interested in switching careers,
 - Power BI Desktop
 - Power Query
 - DAX
-- Excel dataset support
-- Report design and data visualisation best practices
 
 ## Project Files
 - [Power BI report (`.pbix`)](Data_professional_survey_interactive_dashboard.pbix)
